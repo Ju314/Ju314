@@ -3,11 +3,12 @@
 
 🎓 **Bachelor of Computer Science**
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>: 
-    https://br.linkedin.com/in/julian-ribeiro-35579644
+    https://br.linkedin.com/in/julian-ribeiro-35579644 </br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />: 
-    https://github.com/Ju314
+    https://github.com/Ju314 </br>
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />: 
     JulianSr.ie@gmail.com
 </div><br>
@@ -24,10 +25,4 @@
   <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-  
-<div> 
-  <a href = "mailto:JulianSr.ie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/julian-ribeiro-35579644" target="_blank">
 </div>
