@@ -3,8 +3,9 @@
 
 🎓 **Bachelor of Computer Science**
 
+</br>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>: 
     https://br.linkedin.com/in/julian-ribeiro-35579644 </br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />: 
