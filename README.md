@@ -7,9 +7,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a target="_blank">https://br.linkedin.com/in/julian-ribeiro-35579644</a></br>
+  <a href="https://br.linkedin.com/in/julian-ribeiro-35579644" target="_blank">https://br.linkedin.com/in/julian-ribeiro-35579644</a></br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <a target="_blank">https://github.com/Ju314 </a> </br>
+    <a href="https://github.com/Ju314" target="_blank">https://github.com/Ju314</a> </br>
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
     <a href = "mailto:juliansr.ie@gmail.com" target="_blank">JulianSr.ie@gmail.com </a>
 </div><br>
