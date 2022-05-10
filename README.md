@@ -6,12 +6,12 @@
 </br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>: 
-    https://br.linkedin.com/in/julian-ribeiro-35579644 </br>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />:
+    **https://br.linkedin.com/in/julian-ribeiro-35579644** </br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />: 
-    https://github.com/Ju314 </br>
+    **https://github.com/Ju314** </br>
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />: 
-    JulianSr.ie@gmail.com
+    **JulianSr.ie@gmail.com**
 </div><br>
 
 <div align="center">
