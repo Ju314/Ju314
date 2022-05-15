@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <a href="https://github.com/Ju314" target="_blank">https://github.com/Ju314</a> </br>
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-    <a href = "mailto:juliansr.ie@gmail.com" target="_blank">JulianSr.ie@gmail.com </a>
+    <a href = "mailto:Julian.stanfor@gmail.com" target="_blank">Julian.stanfor@gmail.com </a>
 </div><br>
 
 <div align="center">
@@ -31,4 +31,4 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="(https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
